@@ -4,9 +4,9 @@ public class Task1 {
     public static void main(String[] args) {
 
         System.out.println("Даны три числа: 2, 4, 6.");
-        int a = 97;
-        int b = 54;
-        int c = 3;
+        int a = 2;
+        int b = 4;
+        int c = 6;
         int min = 0;
         int max = 0;
         if ((a > b) && (a > c)) {
